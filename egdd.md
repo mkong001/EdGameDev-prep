@@ -1,10 +1,10 @@
 ---
 waltz:
-  title: Educational Game Design Document Template
+  title: Baby Yoda
 meta:
   version: 0.0.2
   gdd authors:
-    - Your name goes here
+    - Minji Kong
   template authors:
     - Austin Cory Bart <acbart@udel.edu>
     - Mark Sheriff
