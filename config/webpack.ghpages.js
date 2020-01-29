@@ -4,7 +4,7 @@ const prod = require('./webpack.prod');
 
 ghpages = {
   output: {
-    publicPath: '/phaser-test-game/'
+    publicPath: '/baby-yoda-test/'
   }
 };
 

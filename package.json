@@ -1,8 +1,8 @@
 {
-  "name": "educational-phaser-game-template",
+  "name": "edgamedev-prep",
   "version": "0.0.1",
-  "description": "Phaser 3 starter template for educational games, using TypeScript, webpack, and Github Pages.",
-  "homepage": "https://github.com/acbart/educational-phaser-game-template#readme",
+  "description": "Simple Baby Yoda interactive built off of a Phaser 3 starter template for educational games, using TypeScript, webpack, and Github Pages.",
+  "homepage": "https://github.com/mkong001/EdGameDev-prep",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config config/webpack.dev.js",
@@ -19,15 +19,16 @@
     "TypeScript",
     "webpack",
     "Github Pages",
-    "starter"
+    "starter",
+    "baby yoda"
   ],
   "author": {
-    "name": "Austin Cory Bart",
-    "url": "https://github.com/acbart"
+    "name": "Minji Kong",
+    "url": "https://github.com/mkong001"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/acbart/educational-phaser-game-template.git"
+    "url": "https://github.com/mkong001/EdGameDev-prep.git"
   },
   "template": {
     "name": "educational-phaser-game-template",
